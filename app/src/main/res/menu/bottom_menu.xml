@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_android"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/action_navigation"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_navigation_24"
+        android:title="GPS" />
+
+    <item
+        android:id="@+id/action_alarm"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="History" />
+
+
+</menu>
